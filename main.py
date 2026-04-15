@@ -55,6 +55,7 @@ def simulate(df):
 if __name__ == '__main__':
     df = pd.read_csv('seq.csv')
 
+    #Ensures parity with Excel files
     df.index += 3
 
     df['rev_ins'] = [u[::-1] for u in df['ins']]
