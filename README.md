@@ -1,5 +1,5 @@
 # DSBCopyMC
-Python program for Monte Carlo Simulation of potential DSB copy
+Python Program for Monte Carlo Simulation of Potential DSB Insertion via Polymerase Capable of Random versus Templated Mechanism.
 
 # Usage
 Requires a seq.csv file with the format:  
